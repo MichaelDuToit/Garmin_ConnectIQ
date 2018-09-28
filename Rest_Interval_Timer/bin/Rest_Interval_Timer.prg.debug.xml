@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerApp.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="8" lineNum="10" pc="268435531" symbol="initialize"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="8" lineNum="11" pc="268435535" symbol="initialize"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="8" lineNum="12" pc="268435553" symbol="initialize"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="9" lineNum="15" pc="268435567" symbol="rest_timer"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="9" lineNum="16" pc="268435571" symbol="rest_timer"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="9" lineNum="17" pc="268435581" symbol="rest_timer"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="9" lineNum="18" pc="268435594" symbol="rest_timer"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="10" lineNum="21" pc="268435611" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="10" lineNum="22" pc="268435615" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="11" lineNum="24" pc="268435630" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="11" lineNum="25" pc="268435634" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="12" lineNum="27" pc="268435649" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="12" lineNum="28" pc="268435653" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="13" lineNum="30" pc="268435668" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="13" lineNum="31" pc="268435672" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="14" lineNum="33" pc="268435687" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="14" lineNum="34" pc="268435691" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="14" lineNum="35" pc="268435705" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="15" lineNum="38" pc="268435715" symbol="compute"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="15" lineNum="39" pc="268435719" symbol="compute"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="15" lineNum="40" pc="268435730" symbol="compute"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="15" lineNum="43" pc="268435746" symbol="compute"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="15" lineNum="44" pc="268435765" symbol="compute"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="15" lineNum="45" pc="268435873" symbol="compute"/>
+<entry filename="C:\\Users\\micha\\Documents\\Dev\\Garmin_ConnectIQ\\Rest_Interval_Timer\\source\\Rest_Interval_TimerView.mc" id="15" lineNum="47" pc="268435889" symbol="compute"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389748" method="true" symbol="onTimerStop"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389752" method="true" symbol="onTimerReset"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry field="true" id="17" symbol="fieldValue"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389747" method="true" symbol="onTimerStart"/>
+<entry field="true" id="15" symbol="rest_timerValue"/>
+<entry id="9" object="true" symbol="Rest_Interval_TimerApp"/>
+<entry id="8389750" method="true" symbol="onTimerResume"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="10" object="true" symbol="Rest_Interval_TimerView"/>
+<entry field="true" id="16" symbol="timerActive"/>
+<entry id="8389749" method="true" symbol="onTimerPause"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="18" method="true" symbol="rest_timer"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435611" name="active" stackId="1" startPc="268435567"/>
+<entry endPc="268435899" name="info" stackId="1" startPc="268435715"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="Rest_Interval_TimerApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="Rest_Interval_TimerApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="Rest_Interval_TimerApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="Rest_Interval_TimerApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Rest_Interval_TimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="rest_timer" parent="Rest_Interval_TimerView">
+<param id="active"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerStart" parent="Rest_Interval_TimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerStop" parent="Rest_Interval_TimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerResume" parent="Rest_Interval_TimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerPause" parent="Rest_Interval_TimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerReset" parent="Rest_Interval_TimerView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="Rest_Interval_TimerView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="245" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="284" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="315" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="346" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="377" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="408" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="447" parentId="globals" symbolId="Rest_Interval_TimerApp" type="class"/>
+<dataEntry offset="518" parentId="globals" symbolId="Rest_Interval_TimerView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
