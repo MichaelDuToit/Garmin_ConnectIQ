@@ -3,7 +3,8 @@ using Toybox.WatchUi as Ui;
 class Rest_Interval_TimerView extends Ui.SimpleDataField {
 
 	var rest_timerValue = 0;
-	// Initialize our timer as active even though it isn't to stop it from running before we start the activity.
+	// Initialize our timer as active even though it isn't to stop it from
+	// running before we start the activity.
 	var timerActive = true;
 	var fieldValue;
 	
