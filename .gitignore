@@ -1,3 +1,6 @@
 .metadata/
 developer_key
 .recommenders/
+.project
+Rest_Interval_Timer/bin/
+Digital_WatchFace/bin/
