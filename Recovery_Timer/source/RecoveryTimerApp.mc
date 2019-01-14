@@ -1,6 +1,6 @@
 using Toybox.Application;
 
-class Rest_Interval_TimerApp extends Application.AppBase {
+class RecoveryTimerApp extends Application.AppBase {
 
     function initialize() {
         AppBase.initialize();
@@ -16,7 +16,7 @@ class Rest_Interval_TimerApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new Rest_Interval_TimerView() ];
+        return [ new RecoveryTimerView() ];
     }
 
 }

@@ -4,10 +4,10 @@ Repository with my small Garmin Connect IQ projects.
 Simple digital watch face that displays the time, date and battery %.  
 TODO: Add Bluetooth, notification icons (only when active).
 
-## Rest_Interval_Timer ##
-For those like me that don't like having their standing/walking rest included in their run/activity but still need to keep track of it between reps/intervals.  
+## Recovery_Timer ##
+For those like me that don't like having their standing/walking recovery included in their run/activity but still need to keep track of it between reps/intervals.  
 A simple data screen app that starts a counter when the activity timer is stopped. Allows you to check your rest time but does not record it. Resets back to 0 when the activity timer starts again.
-  
+ 
   
 ## For Dev ##
 The master branch contains the current working version of the application.  

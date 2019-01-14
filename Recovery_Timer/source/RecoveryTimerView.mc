@@ -1,8 +1,8 @@
 using Toybox.WatchUi as Ui;
 
-class Rest_Interval_TimerView extends Ui.SimpleDataField {
+class RecoveryTimerView extends Ui.SimpleDataField {
 
-	var rest_timerValue = 0;
+	var recoveryTimerValue = 0;
 	// Initialize our timer as active even though it isn't to stop it from
 	// running before we start the activity.
 	var timerActive = true;
@@ -10,29 +10,29 @@ class Rest_Interval_TimerView extends Ui.SimpleDataField {
 	
 	function initialize(){
 		SimpleDataField.initialize();
-		label = "Rest Timer";
+		label = "Recovery Timer";
 	}
 	
-	function rest_timer(active){
+	function recoveryTimer(active){
 		timerActive = active;
-		rest_timerValue = 0;
+		recoveryTimerValue = 0;
 		Ui.requestUpdate();
 	}
 	
 	function onTimerStart(){
-		rest_timer(true);
+		recoveryTimer(true);
 	}
 	function onTimerStop(){
-		rest_timer(false);
+		recoveryTimer(false);
 	}
 	function onTimerResume(){
-		rest_timer(true);
+		recoveryTimer(true);
 	}
 	function onTimerPause(){
-		rest_timer(false);
+		recoveryTimer(false);
 	}
 	function onTimerReset(){
-		rest_timer(true);
+		recoveryTimer(true);
 		fieldValue = null;
 	}
 	
@@ -41,8 +41,11 @@ class Rest_Interval_TimerView extends Ui.SimpleDataField {
 			fieldValue = "--:--";
 		}
 		else {
-			rest_timerValue += 1;
-			fieldValue = Lang.format("$1$:$2$", [(rest_timerValue / 60).format("%02d"), (rest_timerValue % 60).format("%02d")]);
+			recoveryTimerValue += 1;
+			fieldValue = Lang.format("$1$:$2$", [
+				(recoveryTimerValue / 60).format("%02d"), 
+				(recoveryTimerValue % 60).format("%02d")
+			]);
 			Ui.requestUpdate();
 		}
 		return fieldValue;
